@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TP4/1.0.0": {
+        "dependencies": {
+          "Infraestrutura": "1.0.0"
+        },
+        "runtime": {
+          "TP4.dll": {}
+        }
+      },
+      "Dominio/1.0.0": {
+        "runtime": {
+          "Dominio.dll": {}
+        }
+      },
+      "Infraestrutura/1.0.0": {
+        "dependencies": {
+          "Dominio": "1.0.0"
+        },
+        "runtime": {
+          "Infraestrutura.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Infraestrutura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+C:\Users\Leandro\source\repos\ConsoleApp3\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\Leandro\source\repos\ConsoleApp3\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Leandro\source\repos\ConsoleApp3\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Leandro\source\repos\ConsoleApp3\Dominio\obj\Debug\netcoreapp3.1\Dominio.csprojAssemblyReference.cache
+C:\Users\Leandro\source\repos\ConsoleApp3\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\Leandro\source\repos\ConsoleApp3\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\Leandro\source\repos\ConsoleApp3\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Leandro\source\repos\ConsoleApp3\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb

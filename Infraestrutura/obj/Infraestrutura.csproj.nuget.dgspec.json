@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Leandro\\source\\repos\\ConsoleApp3\\Infraestrutura\\Infraestrutura.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Leandro\\source\\repos\\ConsoleApp3\\Dominio\\Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Leandro\\source\\repos\\ConsoleApp3\\Dominio\\Dominio.csproj",
+        "projectName": "Dominio",
+        "projectPath": "C:\\Users\\Leandro\\source\\repos\\ConsoleApp3\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Leandro\\source\\repos\\ConsoleApp3\\Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Leandro\\source\\repos\\ConsoleApp3\\Infraestrutura\\Infraestrutura.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Leandro\\source\\repos\\ConsoleApp3\\Infraestrutura\\Infraestrutura.csproj",
+        "projectName": "Infraestrutura",
+        "projectPath": "C:\\Users\\Leandro\\source\\repos\\ConsoleApp3\\Infraestrutura\\Infraestrutura.csproj",
+        "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Leandro\\source\\repos\\ConsoleApp3\\Infraestrutura\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Leandro\\source\\repos\\ConsoleApp3\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\Leandro\\source\\repos\\ConsoleApp3\\Dominio\\Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

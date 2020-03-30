@@ -1,0 +1,11 @@
+C:\Users\Leandro\source\repos\ConsoleApp3\Infraestrutura\bin\Debug\netcoreapp3.1\Infraestrutura.deps.json
+C:\Users\Leandro\source\repos\ConsoleApp3\Infraestrutura\bin\Debug\netcoreapp3.1\Infraestrutura.dll
+C:\Users\Leandro\source\repos\ConsoleApp3\Infraestrutura\bin\Debug\netcoreapp3.1\Infraestrutura.pdb
+C:\Users\Leandro\source\repos\ConsoleApp3\Infraestrutura\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Leandro\source\repos\ConsoleApp3\Infraestrutura\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Leandro\source\repos\ConsoleApp3\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.csprojAssemblyReference.cache
+C:\Users\Leandro\source\repos\ConsoleApp3\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.AssemblyInfoInputs.cache
+C:\Users\Leandro\source\repos\ConsoleApp3\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.AssemblyInfo.cs
+C:\Users\Leandro\source\repos\ConsoleApp3\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.csproj.CopyComplete
+C:\Users\Leandro\source\repos\ConsoleApp3\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.dll
+C:\Users\Leandro\source\repos\ConsoleApp3\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.pdb

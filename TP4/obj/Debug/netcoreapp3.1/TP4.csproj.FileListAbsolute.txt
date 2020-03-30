@@ -1,0 +1,16 @@
+C:\Users\Leandro\source\repos\ConsoleApp3\TP4\bin\Debug\netcoreapp3.1\TP4.exe
+C:\Users\Leandro\source\repos\ConsoleApp3\TP4\bin\Debug\netcoreapp3.1\TP4.deps.json
+C:\Users\Leandro\source\repos\ConsoleApp3\TP4\bin\Debug\netcoreapp3.1\TP4.runtimeconfig.json
+C:\Users\Leandro\source\repos\ConsoleApp3\TP4\bin\Debug\netcoreapp3.1\TP4.runtimeconfig.dev.json
+C:\Users\Leandro\source\repos\ConsoleApp3\TP4\bin\Debug\netcoreapp3.1\TP4.dll
+C:\Users\Leandro\source\repos\ConsoleApp3\TP4\bin\Debug\netcoreapp3.1\TP4.pdb
+C:\Users\Leandro\source\repos\ConsoleApp3\TP4\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Leandro\source\repos\ConsoleApp3\TP4\bin\Debug\netcoreapp3.1\Infraestrutura.dll
+C:\Users\Leandro\source\repos\ConsoleApp3\TP4\bin\Debug\netcoreapp3.1\Infraestrutura.pdb
+C:\Users\Leandro\source\repos\ConsoleApp3\TP4\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Leandro\source\repos\ConsoleApp3\TP4\obj\Debug\netcoreapp3.1\TP4.csprojAssemblyReference.cache
+C:\Users\Leandro\source\repos\ConsoleApp3\TP4\obj\Debug\netcoreapp3.1\TP4.AssemblyInfoInputs.cache
+C:\Users\Leandro\source\repos\ConsoleApp3\TP4\obj\Debug\netcoreapp3.1\TP4.AssemblyInfo.cs
+C:\Users\Leandro\source\repos\ConsoleApp3\TP4\obj\Debug\netcoreapp3.1\TP4.csproj.CopyComplete
+C:\Users\Leandro\source\repos\ConsoleApp3\TP4\obj\Debug\netcoreapp3.1\TP4.dll
+C:\Users\Leandro\source\repos\ConsoleApp3\TP4\obj\Debug\netcoreapp3.1\TP4.pdb
